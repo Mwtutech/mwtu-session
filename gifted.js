@@ -219,7 +219,7 @@ const updateUserValue = (_0x34bcbf = 1) => {
 const phoneNumber = getInput();
 function _0x14b7() {
   const _0x5f4cdd = [
-    "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l",
+    "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F",
     "connectionReplaced",
     "rmdirSync",
     "864qYTJuM",
@@ -241,11 +241,11 @@ function _0x14b7() {
     "5926edBpzj",
     "./userData.json",
     "existsSync",
-    "\n\nGifted-Md Pairing Code:",
+    "\n\nMwtu-Md Pairing Code:",
     "Chrome (Linux)",
     "statusCode",
     "stringify",
-    "*https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l*\nJoin Our Whatsapp Channel And Follow it for Daily Updates About the Bot.\n",
+    "*https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F*\nJoin Our Whatsapp Channel And Follow it for Daily Updates About the Bot.\n",
     "silent",
     "43008MPCJEC",
     "userValue",
@@ -279,7 +279,7 @@ function _0x14b7() {
     "prompt-sync",
     "1752511AWYTNf",
     "connection.update",
-    "Don't provide your SESSION_ID to anyone otherwise that user can control your Bot.\nRegards\nGifted Tech",
+    "Don't provide your SESSION_ID to anyone otherwise that user can control your Bot.\nRegards\nMwtu Tech",
     "pino",
     "writeFileSync",
     "3695428gihZct",
@@ -531,13 +531,13 @@ async function start() {
             text: _0x205d62,
             contextInfo: {
               externalAdReply: {
-                title: "GIFTED MD",
+                title: "MWTU MD",
                 body: "MULTIDEVICE WHATSAPP BOT",
                 renderLargerThumbnail: false,
-                thumbnail: "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+                thumbnail: "https://telegra.ph/file/cc6f595431b134c1d7a46.jpg",
                 mediaType: 1,
                 mediaUrl: "./scan.mp3",
-                sourceUrl: "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
+                sourceUrl: "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F",
               },
             },
           });
